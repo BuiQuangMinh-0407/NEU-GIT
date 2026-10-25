@@ -1,0 +1,15 @@
+    # Bo qua file log
+*.log
+
+# Bo qua file tam
+*.tmp
+
+# Bo qua thu muc
+node_modules/
+__pycache__/
+
+# Bo qua file cau hinh bi mat
+.env
+
+# Bo qua mot file cu the
+secret.txt
